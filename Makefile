@@ -27,7 +27,7 @@ OBJS       = Source/Collision/b2BroadPhase.o \
 			Source/Dynamics/Joints/b2PrismaticJoint.o \
 			Source/Dynamics/Joints/b2PulleyJoint.o \
 			Source/Dynamics/Joints/b2RevoluteJoint.o
-INCLUDES   = INCLUDE
+INCLUDES   = Include
 
 PREFIX  = arm-vita-eabi
 CC      = $(PREFIX)-gcc
